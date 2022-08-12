@@ -1,8 +1,6 @@
 import {withDesign} from 'storybook-addon-designs'
 import {Provider} from '../src/app/provider'
 
-import '../src/app/styles/global.scss'
-
 
 const BASE_DESIGN_URL = 'https://www.figma.com/'
 

@@ -1,5 +1,3 @@
-import './styles/global.scss';
-
 import type { FC } from 'react';
 
 import { Pages } from '@pages';
