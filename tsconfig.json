@@ -24,8 +24,6 @@
     "jsx": "react-jsx",
     "baseUrl": "."
   },
-  "include": [
-    "src",
-    "./react-app-env.d.ts"
-  ]
+  "include": ["src"],
+  "files": ["react-app-env.d.ts"]
 }
